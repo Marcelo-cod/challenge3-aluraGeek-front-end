@@ -1,0 +1,119 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "imageUrl": "/assets/produtoxyz/caneca.png",
+      "name": "Produto XYZ",
+      "price": "R$ 60,00"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/produtoxyz/enfeites.png",
+      "name": "Produto XYZ",
+      "price": "160,00"
+    },
+    {
+      "id": 3,
+      "imageUrl": "assets/produtoxyz/middleyoda.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 4,
+      "imageUrl": "assets/produtoxyz/guarda.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 5,
+      "imageUrl": "assets/produtoxyz/littleyoda.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 6,
+      "imageUrl": "assets/produtoxyz/mandaloriun.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 7,
+      "imageUrl": "assets/consolesxyz/gamepad.png",
+      "name": "Produto XYZ",
+      "price": "R$ 60,00"
+    },
+    {
+      "id": 8,
+      "imageUrl": "assets/consolesxyz/controleconsole.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 9,
+      "imageUrl": "assets/consolesxyz/game.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 10,
+      "imageUrl": "assets/consolesxyz/controle.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 11,
+      "imageUrl": "assets/consolesxyz/caixa.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 12,
+      "imageUrl": "assets/consolesxyz/games.png",
+      "name": "Produto XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 13,
+      "imageUrl": "assets/diversos/camisa-atari.png",
+      "name": "Camisa Atari",
+      "price": "60,00"
+    },
+    {
+      "id": 14,
+      "imageUrl": "assets/diversos/camisa-snes.png",
+      "name": "Camisa SNES",
+      "price": "60,00"
+    },
+    {
+      "id": 15,
+      "imageUrl": "assets/diversos/sonic.png",
+      "name": "Controle e console XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 16,
+      "imageUrl": "assets/diversos/controle-relogio.png",
+      "name": "Controle e console XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 17,
+      "imageUrl": "assets/diversos/realidade-virtual.png",
+      "name": "Controle e console XYZ",
+      "price": "60,00"
+    },
+    {
+      "id": 18,
+      "imageUrl": "assets/diversos/pikachu.png",
+      "name": "Controle e console XYZ",
+      "price": "60,00"
+    }
+   
+  ],
+  "login": [
+    {
+      "email": "admin@gmail.com",
+      "senha": "admin"
+    }
+  ]
+}
